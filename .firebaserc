@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "chat-a9f44"
+  },
+  "targets": {
+    "chat-a9f44": {
+      "hosting": {
+        "chat-a9f44": [
+          "miqshop"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
